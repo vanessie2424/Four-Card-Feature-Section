@@ -34,6 +34,7 @@ main{
 .card_container{
     position: relative;
     margin-top: 10px;
+    max-width: 100%;
 }
 
 .team_card{
@@ -46,7 +47,7 @@ main{
     padding: 20px 25px;
     margin: 10px 0;
     position: relative;
-    left: 60px;
+    left: 85px;
     top: 80px;
 
 }
@@ -60,7 +61,7 @@ main{
     padding: 20px 25px;
     margin: 10px 0;
     position: relative;
-    right: 270px;
+    right: 250px;
     bottom: 20px;
 }
 .Karma_card{
@@ -73,7 +74,7 @@ main{
     padding: 20px 25px;
     margin: 10px 0;
     position: relative;
-    left: 60px;
+    left: 85px;
     bottom: 130px;
 }
 .calculator{
@@ -86,8 +87,8 @@ main{
     padding: 20px 25px;
     margin: 10px 0;
     position: relative;
-    left: 400px;
-    bottom: 520px;
+    left: 420px;
+    bottom: 530px;
 }
 
 #paragraph_info{
